@@ -1,6 +1,8 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Hosted the mock API in
+https://govindarajb-mockapi.netlify.app/# 
 
 ## Available Scripts
 
